@@ -8,20 +8,20 @@
 
 ---
 
-### 👋 Sobre mim
+### Sobre mim
 
 Sou **estudante de Sistemas** no Brasil, sempre aprendendo e construindo coisas pelo caminho. Gosto de entender como os sistemas funcionam por dentro, do sistema operacional ao banco de dados, e de transformar isso em projetos que resolvem problemas reais.
 
 Fora da faculdade, atuo na parte técnica do **LABMAKER OUROHUB**, um espaço maker com impressão 3D, corte a laser e eletrônica, onde cuido de documentação técnica, inventário e dos sistemas que o espaço usa.
 
-- 🎓 Estudando Sistemas Operacionais, Geometria Analítica e Álgebra Linear e Programação Orientada a Objetos
-- 🌱 Aprofundando em desenvolvimento web, back-end e bancos de dados
-- 🛠️ Colocando a mão na massa com impressão 3D e Arduino
-- 💬 Pode falar comigo sobre Java, bancos de dados, jogos e projetos maker
+- Estudando Sistemas Operacionais, Geometria Analítica e Álgebra Linear e Programação Orientada a Objetos
+- Aprofundando em desenvolvimento web, back-end e bancos de dados
+- Colocando a mão na massa com impressão 3D e Arduino
+- Pode falar comigo sobre Java, bancos de dados, jogos e projetos maker
 
 ---
 
-### 🧰 Tecnologias
+### Tecnologias
 
 <p>
 <img src="https://img.shields.io/badge/Java-0b3d2e?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -42,7 +42,7 @@ Fora da faculdade, atuo na parte técnica do **LABMAKER OUROHUB**, um espaço ma
 
 ---
 
-### 📂 Alguns projetos
+### Alguns projetos
 
 - **Agendamento do LABMAKER**: sistema web para reservar as impressoras 3D do espaço maker (Node.js, Express, MySQL, Docker).
 - **Ritual de Sangue**: card game inspirado em *Inscryption*, que começou como trabalho de banco de dados e hoje é feito em Java.
@@ -50,7 +50,7 @@ Fora da faculdade, atuo na parte técnica do **LABMAKER OUROHUB**, um espaço ma
 
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <div align="center">
 
